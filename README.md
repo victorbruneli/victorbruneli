@@ -9,7 +9,7 @@
   </table>
 </center>  
 
-### Sobre mim
+### About Me
 ---
 
 
