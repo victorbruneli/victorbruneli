@@ -1,16 +1,16 @@
-### Hi there 👋
+![Captura de tela](/logo.png)
 
-<!--
-**victorbruneli/victorbruneli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+  <table>
+    <tr>
+        <td> <img width = "400px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=victorbruneli&hide=html&layout=compact&theme=buefy" / > </td>
+        <td> <img width = "495px" align = "left" src = "https://github-readme-stats.vercel.app/api?username=victorbruneli&theme=buefy" /> </td>
+    </tr>   
+  </table>
+</center>  
 
-Here are some ideas to get you started:
+### Sobre mim
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorbruneli/)](https://www.linkedin.com/in/victorbruneli/)
