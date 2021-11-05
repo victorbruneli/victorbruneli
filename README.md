@@ -1,4 +1,4 @@
-![Captura de tela](/logoAt.png)
+
 
 <center>
   <table>
